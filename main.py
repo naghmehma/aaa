@@ -1,9 +1,9 @@
 from model import *
 from data import *
 
-#comment changed by naghmeh
+#I am Naghmeh I am changing information
 #os.environ["CUDA_VISIBLE_DEVICES"] = "0"
-#hiiiiiiiiiiiiiiiiiii
+
 
 data_gen_args = dict(rotation_range=0.2,
                     width_shift_range=0.05,
